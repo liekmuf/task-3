@@ -7,5 +7,5 @@ app.use(express.json())
 app.use('/notes', notesRouter);
 
 app.listen(PORT, () => {
-    console.log(`Server has been started on port ${PORT}`)
+    console.log(`Server has been started on port ${P}`)
 })
