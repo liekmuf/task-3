@@ -1,0 +1,20 @@
+{
+    "name": "task_3",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js",
+        "dev": "nodemon app.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.2",
+        "uuid": "^8.3.2",
+        "yup": "^0.32.11"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.15"
+    }
+}
